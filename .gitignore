@@ -1,3 +1,12 @@
+#Test files
+funcs.py
+TestCode.py
+test_save_sheets.py
+bot.py
+#Json-files
+credentials.json
+creds.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
