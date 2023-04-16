@@ -3,6 +3,7 @@ funcs.py
 TestCode.py
 test_save_sheets.py
 bot.py
+SheetBot_telebot.py
 #Json-files
 credentials.json
 creds.json
